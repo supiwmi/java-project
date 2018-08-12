@@ -1,2 +1,2 @@
 # java-project
-java project for jenkins demo
+Java Project for Jenkins Course
